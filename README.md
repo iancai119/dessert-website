@@ -22,4 +22,4 @@ No build step needed — it's a static site:
 
 ## Live Demo
 
-👉 Enable GitHub Pages (Settings → Pages → Deploy from branch → `main` / `root`) and paste the URL here.
+👉 [Live Demo](https://iancai119.github.io/dessert-website/Dessert%20Website/Dessert%20Website.html)
