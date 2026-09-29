@@ -2,6 +2,10 @@
 
 A responsive single-page website for a dessert shop, built with HTML and CSS. It showcases products (tiramisu, donuts, cheesecake, macarons, and more) with prices, plus sections for company info and contact.
 
+## Preview
+
+![Project Preview](assets/preview.png)
+
 ## Tech Stack
 
 - HTML5
